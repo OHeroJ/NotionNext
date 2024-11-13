@@ -1,3 +1,27 @@
+# Flutter 面试题
+
+1. [Flutter 中的 static、final、const、dynamic 和 var：它们如何影响内存](https://flutter.oldbird.run/article/13d9c779-7c1d-80a5-ac22-c615412ddd64)
+2. [为什么 Flutter 使用不可变的 widget，能提高性能的原因是什么](https://flutter.oldbird.run/article/13d9c779-7c1d-804c-84d4-d07b1a7469c4)
+3. [RepaintBoundary 优化界面重绘性能](https://flutter.oldbird.run/article/13c9c779-7c1d-808d-a00e-f2bdc1d48de2)
+4. [如何减少 Flutter 应用中的内存泄漏？](https://flutter.oldbird.run/article/13b9c779-7c1d-8090-b904-d24273ba374c)
+5. [Flutter 中的热重载（Hot Reload）和热重启（Hot Restart）有什么区别？](https://flutter.oldbird.run/article/13b9c779-7c1d-80df-a9d1-c5f6b4e28391)
+6. [如何减少 widget rebuild 的次数？](https://flutter.oldbird.run/article/13b9c779-7c1d-80e6-92d4-dfa49a5d204b)
+7. [什么是 InheritedWidget？它的作用是什么？](https://flutter.oldbird.run/article/13b9c779-7c1d-80a5-baa4-f4b4a0bf4d2d)
+8. [as 、show 和 hide 在 import 语句中的区别是什么？](https://flutter.oldbird.run/article/1379c779-7c1d-8025-81ea-faae1c93c593)
+9. [async 和 async* 在 Dart 中有什么区别？](https://flutter.oldbird.run/article/1379c779-7c1d-8023-9a02-d270b9cbf5b9)
+10. [什么是 Flutter 里的 key? 有什么用？](https://flutter.oldbird.run/article/flutter-key)
+11. [Dart 多任务如何并行的？](https://flutter.oldbird.run/article/66db4b03-2489-48b5-adac-3bc4e9f0ab1c)
+12. [Widget 和 element 和 RenderObject之间的关系](https://flutter.oldbird.run/article/83f71cb9-ac61-454f-87c2-6d94740d4168)
+13. [Dart 是值传递还是引用传递？](https://flutter.oldbird.run/article/a9bb7fd9-85b2-4db2-a0e5-4f8035b48a05)
+14. [Dart 语法中 dynamic、var、object 三者的区别？](https://flutter.oldbird.run/article/84c0cc12-ce1d-45c4-b615-bfff0f70607c)
+15. [Dart 是不是单线程模型？是如何运行的？](https://flutter.oldbird.run/article/4d34d157-63a2-4c97-8030-c4e8a8ec1159)
+16. [什么是异步编程 Flutter 中如何处理异步操作？](https://flutter.oldbird.run/article/125b9ddd-63fc-4b6c-a40b-c0a57037ff45)
+
+如果觉得对你有帮助不妨收藏下，[https://flutter.oldbird.run](https://flutter.oldbird.run)
+
+
+--------------------------
+
 # 帮助教程
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/) 
