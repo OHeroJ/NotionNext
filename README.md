@@ -17,12 +17,26 @@
 15. [Dart 是不是单线程模型？是如何运行的？](https://flutter.oldbird.run/article/4d34d157-63a2-4c97-8030-c4e8a8ec1159)
 16. [什么是异步编程 Flutter 中如何处理异步操作？](https://flutter.oldbird.run/article/125b9ddd-63fc-4b6c-a40b-c0a57037ff45)
 
-如果觉得对你有帮助不妨收藏下，[https://flutter.oldbird.run](https://flutter.oldbird.run)
+# Flutter Tips
+
+* [在 Dart 3.5 中创建自己的宏，而不是代码生成](https://flutter.oldbird.run/article/13e9c779-7c1d-80a6-b674-e1296f05b45e)
+* [在 Flutter 中 Dio + Freezed + Retrofit + Json = ❤](https://flutter.oldbird.run/article/13e9c779-7c1d-80e6-b462-c80895935fdd)
+* [在 Flutter 中使用 Freezed 实现不可变性](https://flutter.oldbird.run/article/13e9c779-7c1d-8029-96d0-cee4595fe11c)
+* [揭开自定义绘画的魔力](https://flutter.oldbird.run/article/13e9c779-7c1d-807d-98df-ec3d1952c856)
+* [理解 Flutter 中的 Event Channel 和 Method Channel](https://flutter.oldbird.run/article/13e9c779-7c1d-8099-a881-d92f3578a57a)
+* [使用仓库(Repository)模式构建 Flutter 的 Clean Architecture](https://flutter.oldbird.run/article/13e9c779-7c1d-80da-b7de-c1ca62ff10fa)
+* [Flutter 小技巧！使用展开运算符（Spread Operator）！](https://flutter.oldbird.run/article/13e9c779-7c1d-80ff-9b40-f68a7cc8e34a)
+* [在 ListView 中显示滚动条](https://flutter.oldbird.run/article/13d9c779-7c1d-8082-af51-f1e0d85f0257)
+* [更快地获取数据！](https://flutter.oldbird.run/article/13d9c779-7c1d-8014-9875-c0a906930590)
+* [2024年十大Flutter设计模式](https://flutter.oldbird.run/article/13d9c779-7c1d-8058-bdce-e559cd5492e1)
+* [掌握 Flutter 中的形状和裁剪](https://flutter.oldbird.run/article/13d9c779-7c1d-8058-b009-f1478f833e1b)
+
+更多博文，请前往：[https://flutter.oldbird.run](https://flutter.oldbird.run)
 
 
 --------------------------
 
-# 帮助教程
+## 帮助教程
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
